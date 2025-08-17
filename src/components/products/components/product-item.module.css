@@ -1,0 +1,12 @@
+.buttonstyle{
+    background-color: white;
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.productTitle{
+    font-size: 50px;
+    font-weight: bold;
+    color: tomato;
+}
